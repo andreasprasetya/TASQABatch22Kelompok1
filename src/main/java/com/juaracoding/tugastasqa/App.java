@@ -1,21 +1,16 @@
 package com.juaracoding.tugastasqa;
 
-/**
- * Hello world!
- *
- */
+
 public class App 
 {
-    public static void main( String[] args )
+    public static void main()
     {
 
         System.out.println( "Hello World!" );
-    }
-
-    public static void main1( String[] args )
-    {
-
-        System.out.println( "Hello World!" );
+        //ini testing
+        // percobaan kedua
+        //coba lagi
+        //irfan edit
     }
 
 }
